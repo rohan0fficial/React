@@ -1,10 +1,15 @@
 React-Projects include six diffrent projects built by using react.js
 
 1.background changer 
+
 2.Themeswitcher 
+
 3.Password-Genrator
+
 4.ReactRouter
+
 5.ToDo (redux-toolkit)
+
 6.ToDo
 
 
